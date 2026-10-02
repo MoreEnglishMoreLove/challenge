@@ -1,0 +1,7 @@
+{
+  "name": "MORE ENGLISH MORE LOVE - T. Jaidaa Saqer",
+  "description": "المنصة التعليمية التفاعلية الرسمية للمنهاج بإشراف وتدريس المعلمة جيداء صقر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
